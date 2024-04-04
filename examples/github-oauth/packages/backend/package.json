@@ -9,7 +9,7 @@
     "generateKeys": "openssl req -nodes -new -x509 -keyout server.key -out server.cert"
   },
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "^1.6.8",
     "cors": "^2.8.5",
     "dotenv": "^15.0.0",
     "express": "^4.17.2",
